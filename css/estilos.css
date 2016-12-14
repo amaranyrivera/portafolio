@@ -36,7 +36,7 @@
 
 .Header {
 	margin-top: 3.75em;
-	background-image: url(../images/portada.jpg);
+	background-image:url(../images/background-1430105_960_720.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -69,7 +69,7 @@
 	text-align: center;
 }
 .Profile-link {
-	background: orange;
+	background:#F09;
 	color: white;
 	text-decoration: none;
 	padding: .5em 1em;
@@ -101,7 +101,7 @@
 /*footer*/
 
 .footer{
-	background-image:url(../images/footer.jpg);
+	background-image:url(../images/images.jpg);
 	margin-bottom:500px;
 	background-repeat:no-repeat;
 	background-position:center;
