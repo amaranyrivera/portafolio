@@ -36,11 +36,7 @@
 
 .Header {
 	margin-top: 3.75em;
-<<<<<<< HEAD
 	background-image:url(../images/background-1430105_960_720.png);
-=======
-	background-image: url(../images/portada.jpg);
->>>>>>> dbd869a
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -73,11 +69,7 @@
 	text-align: center;
 }
 .Profile-link {
-<<<<<<< HEAD
-	background:#F09;
-=======
-	background: orange;
->>>>>>> dbd869a
+	background:#F06;
 	color: white;
 	text-decoration: none;
 	padding: .5em 1em;
@@ -106,7 +98,6 @@
 	font-style: italic
 }
 
-<<<<<<< HEAD
 /*footer*/
 
 .footer{
@@ -121,7 +112,7 @@
 	
 	}
 .footer-title{
-	color:#F00;
+	color:#F06;
 	margin-top:0;
 	
 	}
@@ -140,32 +131,3 @@
 .footer-item{
 	display:inline-block;
 	}
-=======
-.footer{
-	background-image:url(../images/footer.jpg);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-	margin-bottom: 500px;
-}
-
-.footer-title{
-	color:#F00;
-}
-
-.footer-description{
-	text-align:center;
-	color:#FFF;
-}
-
-.footer-left{
-	display:inline-block;
-	width:32em;
-	text-align:center;
-	vertical-align:text-top;
-}
-
-.footer-righ{
-	display:inline-block;
-}
->>>>>>> dbd869a
